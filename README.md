@@ -1,9 +1,9 @@
 # springboot-docker-example
 
 
-get code from below Github repository
+checkout code using below command
 
-https://github.com/sachinkaushik/springboot-docker-example
+git clone https://github.com/sachinkaushik/springboot-docker-example.git
 
 install docker on machine
 
